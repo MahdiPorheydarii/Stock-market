@@ -1,2 +1,2 @@
-# finalProject
-final Project of Advanced Programming at IUST 
+# Stock market simulation
+final Project of Advanced Programming at IUST
